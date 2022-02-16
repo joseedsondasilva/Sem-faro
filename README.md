@@ -1,1 +1,1 @@
-# Sem-faro
+# Semáfaro
